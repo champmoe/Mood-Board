@@ -1,6 +1,6 @@
 var happyImages = [
     "http://thesource.com/wp-content/uploads/2018/01/pharrell-2.jpg",
-    "https://i.cbc.ca/1.4986551.1548087152!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/smile-emoji.jpg,"
+    "https://i.cbc.ca/1.4986551.1548087152!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/smile-emoji.jpg",
     ];
     
 var sadImages= [
